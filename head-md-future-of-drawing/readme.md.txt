@@ -20,7 +20,8 @@ These words where the starting point to my research.
 -> drawing game was also linked to the dual batteling of the beyblades.
 -> notebook, ... well i used on to draw on it so it count.
 
-What came out of this little project was the idea of using body motion, especially the hands and arms, to be able to controle the robot.
+What came out of this little project was the idea of using body motion, 
+especially the hands and arms, to be able to controle the robot.
 
 User Journey for 1 player : 
 -> attaching a bracelet 
@@ -68,3 +69,4 @@ MAIN NEXT STEPS :
 -Testing 3 different Cubes colors to see how it affect our feelings towards it. ( Pastel, Grey, Flashy colors)
 -Creating a user journey (can come a bit after).
 
+___
