@@ -6,6 +6,8 @@ Based on the presentation from yesterday, the sound is now a bit more defined.
 
 First thought would be to create dialogue between peoples and the drawing bot.
 
+note : (insert img)
+
 Making a movement will create sounds -> the robot will then respond by copiying (or not) and creating a responsive sound.
 
 Echo & Narcis -> Legend where Narcis repeat Echo's words by mirroring only the las words.
