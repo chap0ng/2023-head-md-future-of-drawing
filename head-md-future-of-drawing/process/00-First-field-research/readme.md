@@ -1,6 +1,6 @@
 ___
 ??-??-2023
-# First Intentions
+# First Field research
 
 -> Would like to focus my main theme and research around sound-drawing relationship.
 ___
