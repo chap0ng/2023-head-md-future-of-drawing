@@ -41,10 +41,22 @@ ___
 ###### - miro main section / Juice / miro state : 2023-10-17 -
 ___
 ![Main line 5](images/miro-02-main-line-05.png)
-###### - miro main section /Integrating AI / miro state : 2023-10-17 -
+###### - miro main section / Integrating AI / miro state : 2023-10-17 -
 ___
-![Main line 5](images/miro-02-main-line-05.png)
-###### - miro main section /Integrating AI / miro state : 2023-10-17 -
+![Main line 6](images/miro-02-main-line-06.png)
+###### - miro main section / Sound design / miro state : 2023-10-17 -
+___
+![Main line 7](images/miro-02-main-line-07.png)
+###### - miro main section / Sound design / miro state : 2023-10-17 -
+___
+![Main line 8](images/miro-02-main-line-08.png)
+###### - miro main section / Possible interaction / miro state : 2023-10-17 -
+___
+![Main line 9](images/miro-02-main-line-09.png)
+###### - miro main section / Context / miro state : 2023-10-17 -
+___
+![Main line 10](images/miro-02-main-line-10.png)
+###### - miro main section / General feelings / miro state : 2023-10-17 -
 ___
 
 note : this tree will evolve and will be updated in future sections.
