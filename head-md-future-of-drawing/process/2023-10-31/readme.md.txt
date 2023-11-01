@@ -1,6 +1,6 @@
 ___
 31-10-2023
-# Tutorials with Alexia and Douglas
+## Tutorials with Alexia and Douglas
 
 Based on the presentation from yesterday, the sound is now a bit more defined.
 
@@ -9,7 +9,7 @@ Making a movement will create sounds -> the robot will then respond by copiying 
 
 Echo & Narcis -> Legend where Narcis repeat Echo's words by mirroring only the las words.
 
-# MAIN NEXT STEPS : 
+### MAIN NEXT STEPS : 
 -Testing with a bigger size, how to interact with it on the grounds.
 -Testing the sound with real sounds (sampler or so ) OR with mimicing it with a cardboard sampler.
 -Making a list of different behaviours ( different interaction categories)

@@ -1,6 +1,6 @@
 ___
 25-10-2023
-# Bayblade inspired drawing bot Prototype
+## Bayblade inspired drawing bot Prototype
 
 During this short project i picked up 4 cards to setup an idea.
 -gyroscope-
@@ -18,7 +18,7 @@ These words where the starting point to my research.
 What came out of this little project was the idea of using body motion, 
 especially the hands and arms, to be able to controle the robot.
 
-User Journey for 1 player : 
+### User Journey for 1 player : 
 -> attaching a bracelet 
 -> turing on the robot
 -> robot screems a you to encourage you to spin
@@ -32,3 +32,9 @@ The robot will encourage you to spin like a beyblade and will follow your moveme
 It has a pencil attached to it and will draw your movement.
 
 The game need two players. The first one to stop spinning will lose.
+
+### First feedbacks :
+-
+-
+-
+-
