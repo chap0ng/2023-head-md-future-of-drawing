@@ -26,9 +26,13 @@ ___
 
 ### Main Structure :
 
-![first Cloud](images/miro-02-main-line.jpg)
-###### - miro main section / screen from : 2023-10-17 -
+![first Cloud](images/miro-02-main-line-01.png)
+###### - miro main section / who ? / screen from : 2023-10-17 -
+
+![first Cloud](images/miro-02-main-line-02.png)
+###### - miro main section / What Caran d'Ache mean for me / screen from : 2023-10-17 -
 
 note : this tree will evolve and will be updated in future sections.
 
 Making this main linse structure helped me put words on ideas and to create a thinking machine.
+
