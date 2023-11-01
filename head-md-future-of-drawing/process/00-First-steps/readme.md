@@ -26,11 +26,26 @@ ___
 
 ### Main Structure :
 
-![first Cloud](images/miro-02-main-line-01.png)
-###### - miro main section / who ? / screen from : 2023-10-17 -
+![Main line 1](images/miro-02-main-line-01.png)
+ ###### - miro main section / who ? / miro state : 2023-10-17 - 
 
-![first Cloud](images/miro-02-main-line-02.png)
-###### - miro main section / What Caran d'Ache mean for me / screen from : 2023-10-17 -
+___
+
+![Main line 2](images/miro-02-main-line-02.png)
+###### - miro main section / What Caran d'Ache mean for me / miro state : 2023-10-17 - 
+___
+![Main line 3](images/miro-02-main-line-03.png)
+###### - miro main section / Mearging sound and drawing / miro state : 2023-10-17 - 
+___
+![Main line 4](images/miro-02-main-line-04.png)
+###### - miro main section / Juice / miro state : 2023-10-17 -
+___
+![Main line 5](images/miro-02-main-line-05.png)
+###### - miro main section /Integrating AI / miro state : 2023-10-17 -
+___
+![Main line 5](images/miro-02-main-line-05.png)
+###### - miro main section /Integrating AI / miro state : 2023-10-17 -
+___
 
 note : this tree will evolve and will be updated in future sections.
 
