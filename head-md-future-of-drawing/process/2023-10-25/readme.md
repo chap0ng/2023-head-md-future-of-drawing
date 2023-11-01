@@ -34,7 +34,9 @@ It has a pencil attached to it and will draw your movement.
 The game need two players. The first one to stop spinning will lose.
 
 ### First feedbacks :
--
--
--
--
+- movement based drawing could be a great starting point
+- not really relevent to make people draw after spinning
+- the prompt the robot give you is clearly not necessary
+- great overwhelming energy from the robot (could be used later)
+- do not get too attached to your ideas
+
