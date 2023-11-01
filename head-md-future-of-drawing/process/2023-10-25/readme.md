@@ -1,6 +1,7 @@
-___
 25-10-2023
 ## Bayblade inspired drawing bot Prototype
+
+---
 
 During this short project i picked up 4 cards to setup an idea.
 -gyroscope-

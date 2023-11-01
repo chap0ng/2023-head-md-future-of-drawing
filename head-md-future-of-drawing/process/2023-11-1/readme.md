@@ -1,6 +1,8 @@
 01-11-2023
 # Work in studio 
 
+---
+
 ### Today objectives :
 1. Continuing/finishing GIThub cleanup and update
 2. Prototype 2 -> grey box

@@ -1,6 +1,7 @@
-___
 31-10-2023
 ## Tutorials with Alexia and Douglas
+
+---
 
 Based on the presentation from yesterday, the sound is now a bit more defined.
 

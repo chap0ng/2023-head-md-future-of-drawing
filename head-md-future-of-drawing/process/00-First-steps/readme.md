@@ -1,4 +1,3 @@
-___
 2023
 # First Intentions
 ###### link to my miro : 
