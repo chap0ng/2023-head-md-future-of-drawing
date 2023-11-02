@@ -13,7 +13,6 @@
 5. Thinking about the user journey
 6. Sound design prototype
 7. Taking prototype 1 (green pastel box) pictures and upload on Github/slack
-8. Adding new list of references ( emotional robots references )
 
 ---
 

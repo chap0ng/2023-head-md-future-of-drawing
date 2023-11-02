@@ -11,6 +11,7 @@
 5. Sound design prototype
 6. Taking prototype 1, 2, 3, 4 pictures and upload on Github/slack
 7. Video of the prototype testing (and adding the prototype sounds to it)
+8. Adding new list of references ( emotional robots references )
 
 ---
 
@@ -29,6 +30,8 @@
 6. X
 
 7. X
+
+8. X
 
 ---
 
@@ -59,3 +62,7 @@
 ---
 
 7. ->
+
+---
+8. ->
+
