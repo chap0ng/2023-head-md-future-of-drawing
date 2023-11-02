@@ -79,10 +79,10 @@ Added list of possible sound design to create so i'll be able to test it.
 2. Done
 3. Done
 4. Done
-5. X
+5. Done
 6. Done
-7. X
-8. X
+7. Done
+8. Done
 9. Done
 
 ---
@@ -125,3 +125,4 @@ around 10:00 -> made today tasklist.
 
 16:26 -> updating sound design list // thinking on possible tests i will be doing for the prototypes. (solo and in groups).
 
+17:00 -> break
