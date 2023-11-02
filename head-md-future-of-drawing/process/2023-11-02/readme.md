@@ -5,9 +5,9 @@
 
 ### Today objectives :
 1. Creating list of possible activation and chose one for each box
-2. Prototype 2 -> grey box (with crank)
-3. Prototype 3 -> Colorful/flashy box (with clicky button)
-4. Prototype 4 -> white box (shaking to activate)
+2. Prototype 2 -> grey box
+3. Prototype 3 -> Colorful/flashy box
+4. Prototype 4 -> white box
 5. Sound design prototypes
 6. Taking prototype 1, 2, 3, 4 pictures and upload on Github/slack
 7. Video of the prototype testing (and adding the prototype sounds to it)
@@ -44,29 +44,46 @@
 
 ---
 
-2. -> 
+2. -> grey box : 
+
+- it got a crank to activate it.
+
+- inspired by Caran d'Ache's pencil sharpner.
+
+- crank it before every move (timer) or once (one time activation).
 
 ---
 
-3. -> 
+3. -> orange box :
+
+- activation by pressing a button.
+
+- will be tested in the same scenarios as the others.
 
 ---
 
-4. -> 
+4. -> white box :
+
+- shaking it to activate.
+
+- will be tested in the same scenarios as the others.
 
 ---
 
-5. -> Added list of possible sound design to create to be able to test.
+5. -> 
 
-![Sound-Design-List](images/sound-design-list.png)
+Added list of possible sound design to create so i'll be able to test it.
+
+![Sound-Design-List](images/sound-design-list02.png)
 1. Done
 2. Done
 3. Done
-4. X
-5. Done
-6. X
-7. Done
+4. Done
+5. X
+6. Done
+7. X
 8. X
+9. Done
 
 ---
 
@@ -98,10 +115,13 @@ around 10:00 -> made today tasklist.
 
 11:40 -> 2 out of 3 finished // trying to get the hole right for the crank that will be added to the grey box.
 
-12:14 -> found a way to make holes ! boxes are done ! will be updating pictures after eating break :) 
+12:14 -> found a way to make holes ! boxes are done ! will be updating pictures after break :) 
 
 13:08 -> back to work.
 
 14:03 -> starting sound design prototype 
 
 15:04 -> updating Github with the list of sound design i'm currently working on for tomorrow.
+
+16:26 -> updating sound design list // thinking on possible tests i will be doing for the prototypes. (solo and in groups).
+
