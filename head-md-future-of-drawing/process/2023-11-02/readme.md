@@ -26,7 +26,7 @@
 
 4. Done
 
-5. X 
+5. W i p 
 
 6. Half Done ( need to upload )
 
@@ -56,7 +56,17 @@
 
 ---
 
-5. ->
+5. -> Added list of possible sound design to create to be able to test.
+
+![Sound-Design-List](images/sound-design-list.png)
+1. Done
+2. Done
+3. Done
+4. X
+5. Done
+6. X
+7. Done
+8. X
 
 ---
 
@@ -93,3 +103,5 @@ around 10:00 -> made today tasklist.
 13:08 -> back to work.
 
 14:03 -> starting sound design prototype 
+
+15:04 -> updating Github with the list of sound design i'm currently working on for tomorrow.
