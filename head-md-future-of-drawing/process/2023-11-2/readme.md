@@ -19,11 +19,11 @@
 
 1. X
 
-2. X
+2. Curently working on it
 
-3. X
+3. Curently working on it
 
-4. X
+4. Curently working on it
 
 5. X 
 
@@ -41,15 +41,15 @@
 
 ---
 
-2. ->
+2. -> Box cutout done 
 
 ---
 
-3. ->
+3. -> Box cutout done 
 
 ---
 
-4. ->
+4. -> Box cutout done 
 
 ---
 
@@ -66,3 +66,12 @@
 ---
 8. ->
 
+---
+
+### V log :
+
+10:30 -> took pictures of the green box and started to work on the other ones
+
+11:20 -> box are ready to be glued and folded. I also found what could be the crank on the grey one.
+
+![boxCutout](images/box-proto-cutout.jpg)
