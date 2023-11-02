@@ -52,7 +52,7 @@
 
 ![ImgV1Behaviours](images/2023-11-01-miro-V1bot-behaviours.png)
 
-note : these need to be tested the 2023-11-01 with the 3 colored prototypes.
+note : these need to be tested the 2023-11-02 with the 3 colored prototypes.
 
 ---
 
