@@ -125,4 +125,4 @@ around 10:00 -> made today tasklist.
 
 16:26 -> updating sound design list // thinking on possible tests i will be doing for the prototypes. (solo and in groups).
 
-17:00 -> break
+17:00 -> end of the day
