@@ -13,6 +13,7 @@
 5. Thinking about the user journey
 6. Sound design prototype
 7. Taking prototype 1 (green pastel box) pictures and upload on Github/slack
+8. Final github update and adding todaday feedback
 
 ---
 
@@ -31,6 +32,8 @@
 6.  One out of 4 or 6 Done
 
 7. X
+
+8. X
 
 ---
 
@@ -65,3 +68,7 @@ note : these need to be tested the 2023-11-02 with the 3 colored prototypes.
 ---
 
 7. -> X
+
+---
+
+8. -> Cleaning and organising my files took almost my entire day, will be continuing prototyping tomorrow.

@@ -12,6 +12,7 @@
 6. Taking prototype 1, 2, 3, 4 pictures and upload on Github/slack
 7. Video of the prototype testing (and adding the prototype sounds to it)
 8. Adding new list of references ( emotional robots references )
+9. Final github update and adding todaday feedback
 
 ---
 
@@ -32,6 +33,8 @@
 7. X
 
 8. X
+
+9. X
 
 ---
 
@@ -65,6 +68,9 @@
 
 ---
 8. ->
+
+---
+9. ->
 
 ---
 
