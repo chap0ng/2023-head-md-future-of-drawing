@@ -28,7 +28,7 @@
 
 5. X 
 
-6. X
+6. Half Done ( need to upload )
 
 7. X
 
