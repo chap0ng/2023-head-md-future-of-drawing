@@ -28,7 +28,7 @@
 
 5. X - (will come later with the 2023-11-02 prototype tests) -
 
-6. X
+6.  One out of 4 or 6 Done
 
 7. X
 
@@ -40,11 +40,11 @@
 
 ---
 
-2. ->
+2. -> X
 
 ---
 
-3. ->
+3. -> X
 
 ---
 
@@ -56,12 +56,12 @@ note : these need to be tested the 2023-11-01 with the 3 colored prototypes.
 
 ---
 
-5. 
+5. -> X
 
 ---
 
-6. ->
+6. -> Did the first sound prototype in ableton. Will be using a pad to trigger the sounds during test day.
 
 ---
 
-7. ->
+7. -> X
