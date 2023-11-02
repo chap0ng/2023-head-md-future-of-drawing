@@ -72,14 +72,16 @@
 
 9:00 -> listening to calm autumn jazz and ambient, coffe and feeding/petting my cat.
 
-around 10:00 -> made today tasklist
+around 10:00 -> made today tasklist.
 
-10:30 -> took pictures of the green box and started to work on the other ones
+10:30 -> took pictures of the green box and started to work on the other ones.
 
 11:20 -> box are ready to be glued and folded. I also found what could be the crank on the grey one.
 
 ![boxCutout](images/box-proto-cutout.jpg)
 
-11:40 -> 2 out of 3 finished // trying to get the hole right for the crank that will be added to the grey box
+11:40 -> 2 out of 3 finished // trying to get the hole right for the crank that will be added to the grey box.
 
 12:14 -> found a way to make holes ! boxes are done ! will be updating pictures after eating break :) 
+
+13:08 -> back to work.
