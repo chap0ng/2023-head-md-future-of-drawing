@@ -49,7 +49,7 @@
 
 ---
 
-4. -> Box cutout done 
+4. -> Done 
 
 ---
 
@@ -75,3 +75,5 @@
 11:20 -> box are ready to be glued and folded. I also found what could be the crank on the grey one.
 
 ![boxCutout](images/box-proto-cutout.jpg)
+
+11:40 -> 2 out of 3 finished // trying to get the hole right for the crank that will be added to the grey box
