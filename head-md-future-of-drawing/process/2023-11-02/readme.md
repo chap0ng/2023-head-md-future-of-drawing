@@ -91,3 +91,5 @@ around 10:00 -> made today tasklist.
 12:14 -> found a way to make holes ! boxes are done ! will be updating pictures after eating break :) 
 
 13:08 -> back to work.
+
+14:03 -> starting sound design prototype 
