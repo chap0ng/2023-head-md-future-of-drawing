@@ -17,7 +17,7 @@
 
 ### Objectives done : 
 
-1. X
+1. Half Done
 
 2. Done
 
