@@ -22,7 +22,7 @@
 
 3. Done
 
-4. Will be doing it on the 2023-11-04 (alone and with friends)
+4. X
 
 5. X
 
@@ -42,19 +42,19 @@
 2. -> mp3 files posted on 2023-11-02 readme file. 
 
 ---
-3. -> X
+3. -> images and videos files posted on 2023-11-02 readme file. 
 
 ---
-4. -> X
+4. -> Will be doing it on the 2023-11-04 (alone and with friends)
 
 ---
-5. -> X
+5. -> work in progress ...
 
 ---
-6. -> X
+6. -> work in progress ...
 
 --- 
-7. -> X
+7. -> 2023-11-02 readme file up to date
 
 ---
 8. -> X
@@ -76,3 +76,6 @@
 19:25 -> back to work, starting to draw what i will be testing with prototypes.
 
 20:21 -> updated 2023-11-02 readme file // added mp3 files
+
+20:44 -> updated 2023-11-02 readme file // added prototypes pictures and video files
+
