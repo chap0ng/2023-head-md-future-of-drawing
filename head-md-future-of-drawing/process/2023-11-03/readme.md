@@ -74,3 +74,5 @@
 18:30 -> finally getting mouth sensation back and feeling better, time to finally eat something (a yummy pizza).
 
 19:25 -> back to work, starting to draw what i will be testing with prototypes.
+
+20:21 -> updated 2023-11-02 readme file // added mp3 files
