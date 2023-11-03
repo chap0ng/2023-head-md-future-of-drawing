@@ -18,7 +18,7 @@
 
 ### Objectives done : 
 
-1. Half Done
+1. Done
 
 2. Done
 
@@ -26,7 +26,7 @@
 
 4. Done
 
-5. W i p 
+5. Done
 
 6. Half Done ( need to upload )
 
@@ -34,13 +34,14 @@
 
 8. X
 
-9. X
+9. Done
 
 ---
 
 ### Update notes : 
 
-1. -> 
+1. -> List of possible activation thought before prototyping.
+![Activations-list](images/Activation-list.png)
 
 ---
 
@@ -70,34 +71,41 @@
 
 ---
 
-5. -> 
-
-Added list of possible sound design to create so i'll be able to test it.
+5. -> Added list of possible sound design to create so i'll be able to test it.
 
 ![Sound-Design-List](images/sound-design-list02.png)
-1. Done
-2. Done
-3. Done
-4. Done
-5. Done
-6. Done
-7. Done
-8. Done
-9. Done
+
+1 - Done 
+
+2 - Done
+
+3 - Done
+
+4 - Done
+
+5 - Done
+
+6 - Done
+
+7 - Done
+
+8 - Done
+
+9 - Done
 
 ---
 
-6. ->
+6. -> 
 
 ---
 
-7. ->
+7. -> Can be found on the 2023-11-04 readme file
 
 ---
-8. ->
+8. -> Can be found on the 2023-11-03 readme file
 
 ---
-9. ->
+9. -> Worked mostly on prototype and sound design. Everything is almost ready for tessting. Still need to test them as soon as possible to be able to work on them next week.
 
 ---
 
