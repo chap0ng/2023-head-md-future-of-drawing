@@ -5,8 +5,8 @@
 
 ### Today objectives :
 1. Creating list of possible activation and chose one for each box
-2. Sound design prototypes
-3. Taking prototype 1, 2, 3, 4 pictures and upload on Github/slack
+2. Posting Sound design prototypes
+3. Prototype 1, 2, 3, 4 pictures and upload on Github/slack
 4. Video of the prototype testing (and adding the prototype sounds to it)
 5. Adding new list of references ( emotional robots references )
 6. Final github update and adding todaday feedback
