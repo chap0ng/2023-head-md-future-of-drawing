@@ -13,3 +13,40 @@
 7. Finishing 2023-11-02 Github update
 ---
 
+### Objectives done : 
+
+1. 
+
+2. 
+
+3. 
+
+4. 
+
+5. 
+
+6. 
+
+7. 
+
+---
+
+### Update notes : 
+
+1. 
+
+2. 
+
+3. 
+
+4. 
+
+5. 
+
+6. 
+
+7. 
+
+--- 
+
+### V log :
