@@ -79,3 +79,4 @@
 
 20:44 -> updated 2023-11-02 readme file // added prototypes pictures and video files
 
+22:11 -> end of the day
