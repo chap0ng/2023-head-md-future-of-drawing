@@ -28,7 +28,7 @@
 
 5. Done
 
-6. Half Done ( need to upload )
+6. Done
 
 7. X
 
@@ -75,23 +75,41 @@
 
 ![Sound-Design-List](images/sound-design-list02.png)
 
-1 - Done 
+1 - Simple sinewave
 
-2 - Done
+<audio src="sound-design/MD_prototype02_sounds1.mp3" controls title="Title"></audio>
 
-3 - Done
+2 - Simple squarewave
 
-4 - Done
+<audio src="sound-design/MD_prototype02_sounds2.mp3" controls title="Title"></audio>
 
-5 - Done
+3 - White noise
 
-6 - Done
+<audio src="sound-design/MD_prototype02_sounds3.mp3" controls title="Title"></audio>
 
-7 - Done
+4 - Q & A synth (same synth)
 
-8 - Done
+<audio src="sound-design/MD_prototype02_sounds4.mp3" controls title="Title"></audio>
+
+5 - Q & A synth (different synth)
+
+<audio src="sound-design/MD_prototype02_sounds5.mp3" controls title="Title"></audio>
+
+6 - Inverted Q & A n°4 tones (high to bass)
+
+<audio src="sound-design/MD_prototype02_sounds6.mp3" controls title="Title"></audio>
+
+7 - Inverted Q & A n°5 tones (high to bass)
+
+<audio src="sound-design/MD_prototype02_sounds7.mp3" controls title="Title"></audio>
+
+8 - One synth (answer to movement)
+
+<audio src="sound-design/MD_prototype02_sounds8.mp3" controls title="Title"></audio>
 
 9 - Done
+
+( no recording as it's analog, will be recorder through videos )
 
 ---
 
@@ -133,4 +151,4 @@ around 10:00 -> made today tasklist.
 
 16:26 -> updating sound design list // thinking on possible tests i will be doing for the prototypes. (solo and in groups).
 
-17:00 -> end of the day
+17:35 -> end of the day
