@@ -6,7 +6,7 @@
 ### Today objectives :
 1. Adding list of possible activation on 2023-11-02 readme
 2. Posting Sound design prototypes on 2023-11-02 readme
-3. Posting prototypes pictures on 2023-11-02 readme
+3. Posting prototypes pictures and videos on 2023-11-02 readme
 4. Video of the prototype testing (and adding the prototype sounds to it)
 5. Adding new list of references ( emotional robots references )
 6. Sketching the testing experience.
@@ -18,15 +18,15 @@
 
 1. Done
 
-2. X
+2. Done
 
-3. X
+3. Done
 
 4. Will be doing it on the 2023-11-04 (alone and with friends)
 
 5. X
 
-6. X
+6. w i p
 
 7. Done
 
@@ -39,7 +39,7 @@
 1. -> list posted on 2023-11-02 readme file.
 
 ---
-2. -> X 
+2. -> mp3 files posted on 2023-11-02 readme file. 
 
 ---
 3. -> X
@@ -65,11 +65,12 @@
 
 9:00 -> waking up, coffee and petting my cat
 
-9:37 -> Finishing sound design export
-
-9:53 ->
+9:37 -> Finishing sound design and export
 
 12:15 -> going to the dentist
 
-14:20 -> back from the dentist, still dizzy and cannot feel my mouth, will have to resr and work later :(
+14:20 -> back from the dentist, still dizzy and cannot feel my mouth, will have to rest and work later :(
 
+18:30 -> finally getting mouth sensation back and feeling better, time to finally eat something (a yummy pizza).
+
+19:25 -> back to work, starting to draw what i will be testing with prototypes.
