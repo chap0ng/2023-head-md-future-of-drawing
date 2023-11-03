@@ -113,7 +113,33 @@
 
 ---
 
-6. -> 
+6. ->
+
+![Alt text](images/4-boxes.jpeg)
+
+Green box :
+
+![Alt text](images/green-box.jpeg)
+
+Orange box :
+
+![Alt text](images/orange-box.jpeg)
+
+White box :
+
+![Alt text](images/white-box.jpeg)
+
+Grey box : 
+
+![Alt text](images/grey-box.jpeg)
+
+Lego rolling mechanism :
+
+![Alt text](images/lego-mechanism-1.jpeg)![Alt text](images/lego-mechanism-2.jpeg)![Alt text](images/lego-mechanism-3.jpeg)
+
+Grey box crank : 
+
+images/crank-video-1.MOV
 
 ---
 
