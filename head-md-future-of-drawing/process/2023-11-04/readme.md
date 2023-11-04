@@ -14,7 +14,7 @@
 
 ### Objectives done : 
 
-1. W i p
+1. Done
 
 2. X
 
@@ -27,3 +27,31 @@
 6. X
 
 ---
+
+### Update notes : 
+
+1. -> 
+Prototype testing scenario branching :
+
+![Alt text](2023-11-04-Prototype-testing-scenarios.png)
+
+![Alt text](2023-11-04-Prototype-testing-scenarios-02.png)
+
+---
+2. -> 
+
+---
+3. -> 
+
+---
+4. ->
+
+---
+5. -> 
+
+---
+6. -> 
+
+---
+
+### V log :
