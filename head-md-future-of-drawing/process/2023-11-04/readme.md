@@ -67,3 +67,6 @@ Prototype testing scenario branching :
 16:04 -> converting 2023-11-02 Audio file to MOV -> so it show in the readme file
 
 16:08 -> added mov audio files to 2023-11-02 Process folder
+
+16:16 -> Audio files are now playable in 2023-11-02 readme file
+
