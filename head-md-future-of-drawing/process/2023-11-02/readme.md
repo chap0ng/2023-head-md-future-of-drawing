@@ -80,19 +80,35 @@
 
 1 - Simple sinewave
 
+https://github.com/chap0ng/2023-head-md-future-of-drawing/assets/101097173/dc26f095-3189-48e6-b553-09999e19c4d9
+
 2 - Simple squarewave
+
+https://github.com/chap0ng/2023-head-md-future-of-drawing/assets/101097173/063d8738-fc24-4671-93bc-4576840e4025
 
 3 - White noise
 
+https://github.com/chap0ng/2023-head-md-future-of-drawing/assets/101097173/8656da77-7896-4f1b-ac6b-0ed3ed4ca666
+
 4 - Q & A synth (same synth)
+
+https://github.com/chap0ng/2023-head-md-future-of-drawing/assets/101097173/841f303a-5e1f-484f-9283-06bcd6fe1ec5
 
 5 - Q & A synth (different synth)
 
+https://github.com/chap0ng/2023-head-md-future-of-drawing/assets/101097173/c24c9a8b-fa39-445f-afa8-af67a04352a5
+
 6 - Inverted Q & A n°4 tones (high to bass)
+
+https://github.com/chap0ng/2023-head-md-future-of-drawing/assets/101097173/44f2ffcd-f90f-466e-b821-33fbda0473a8
 
 7 - Inverted Q & A n°5 tones (high to bass)
 
+https://github.com/chap0ng/2023-head-md-future-of-drawing/assets/101097173/681497e4-957c-46ab-a1e5-a0299941b978
+
 8 - One synth (answer to movement)
+
+https://github.com/chap0ng/2023-head-md-future-of-drawing/assets/101097173/f79d1006-126f-4e34-863d-0bdc966fa91d
 
 9 - Done
 
