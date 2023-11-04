@@ -22,7 +22,7 @@
 
 4. X
 
-5. X
+5. Done
 
 6. X
 
@@ -33,9 +33,9 @@
 1. -> 
 Prototype testing scenario branching :
 
-![Alt text](2023-11-04-Prototype-testing-scenarios.png)
+![Alt text](images/2023-11-04-Prototype-testing-scenarios.png)
 
-![Alt text](2023-11-04-Prototype-testing-scenarios-02.png)
+![Alt text](images/2023-11-04-Prototype-testing-scenarios-02.png)
 
 ---
 2. -> 
