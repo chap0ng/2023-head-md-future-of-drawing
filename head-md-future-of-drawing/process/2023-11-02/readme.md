@@ -2,6 +2,9 @@
 # Studio Work // prototyping
 
 ---
+### Project presentation :
+
+---
 
 ### Today objectives :
 1. Creating list of possible activation and chose one for each box
