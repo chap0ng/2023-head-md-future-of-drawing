@@ -7,7 +7,7 @@
 1. Sketching/Planning the testing experience
 2. Sketching possible shapes
 3. Testing prototype and derushing videos
-4. Adding a short presentation to the 2023-11-02 readme file
+4. Adding a short presentation to the 2023-11-02 readme file in presentation folder
 5. Finishing 2023-11-03 Github update
 6. Final github update and adding todaday feedback
 ---
@@ -55,3 +55,11 @@ Prototype testing scenario branching :
 ---
 
 ### V log :
+
+13:00 -> Slow paced brainstorm.
+
+15:00 -> Working on the prototype testing scenarios and the 2023-11-02 presentaion i realised i was late for ...
+
+15:15 -> Working on pictograms for the 2023-11-02 presentation.
+
+15:47 -> Uploading prototype testing branch on the Github.
