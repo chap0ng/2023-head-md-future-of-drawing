@@ -80,35 +80,19 @@
 
 1 - Simple sinewave
 
-<audio src="sound-design/MD_prototype02_sounds1.mp3" controls title="Title"></audio>
-
 2 - Simple squarewave
-
-<audio src="sound-design/MD_prototype02_sounds2.mp3" controls title="Title"></audio>
 
 3 - White noise
 
-<audio src="sound-design/MD_prototype02_sounds3.mp3" controls title="Title"></audio>
-
 4 - Q & A synth (same synth)
-
-<audio src="sound-design/MD_prototype02_sounds4.mp3" controls title="Title"></audio>
 
 5 - Q & A synth (different synth)
 
-<audio src="sound-design/MD_prototype02_sounds5.mp3" controls title="Title"></audio>
-
 6 - Inverted Q & A n°4 tones (high to bass)
-
-<audio src="sound-design/MD_prototype02_sounds6.mp3" controls title="Title"></audio>
 
 7 - Inverted Q & A n°5 tones (high to bass)
 
-<audio src="sound-design/MD_prototype02_sounds7.mp3" controls title="Title"></audio>
-
 8 - One synth (answer to movement)
-
-<audio src="sound-design/MD_prototype02_sounds8.mp3" controls title="Title"></audio>
 
 9 - Done
 
