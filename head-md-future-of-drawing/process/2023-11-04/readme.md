@@ -33,9 +33,9 @@
 1. -> 
 Prototype testing scenario branching :
 
-![Alt text](images/2023-11-04-Prototype-testing-scenarios.png)
+![Prototype-testing](images/2023-11-04-Prototype-testing-scenarios.png)
 
-![Alt text](images/2023-11-04-Prototype-testing-scenarios-02.png)
+![Prototyping-testing-02](images/2023-11-04-Prototype-testing-scenarios-02.png)
 
 ---
 2. -> 
