@@ -70,3 +70,5 @@ Prototype testing scenario branching :
 
 16:16 -> Audio files are now playable in 2023-11-02 readme file
 
+17:29 -> Had to go to a party ! hoped to test my prototype there but it was not really the mood so i'll try it next week.
+
