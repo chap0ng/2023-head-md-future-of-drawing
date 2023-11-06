@@ -17,3 +17,7 @@
 
 
 ---
+
+### V log :
+
+nothing that day ...
