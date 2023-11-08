@@ -13,13 +13,13 @@ i just worked on some references and inspiration digging for the project, this w
 
 -recordings of the room vibrations made by visitors into a drawing.
 
-https://www.lozano-hemmer.com/seismoscopes.php
-
 ![Alt text](images/Philosopher04.jpg)
 
 ![Alt text](images/seismoscopes_03.jpg)
 
 ![Alt text](images/seismoscopes_montreal_2018_glh_005.jpg)
+
+https://www.lozano-hemmer.com/seismoscopes.php
 ---
 
 ###### Camille Utterback - Precarious
