@@ -20,6 +20,7 @@ i just worked on some references and inspiration digging for the project, this w
 ![Alt text](images/seismoscopes_montreal_2018_glh_005.jpg)
 
 https://www.lozano-hemmer.com/seismoscopes.php
+
 ---
 
 ###### Camille Utterback - Precarious
