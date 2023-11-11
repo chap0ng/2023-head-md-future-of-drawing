@@ -8,16 +8,12 @@
 
 2. A user journey or a scenario showing the key interaction (think from start to finish - show the whole experience)
  
-
 3. Your key insights from your research (what are you basing your project on? Don’t just show other artists references, we want to see you own field research)
  
-
 4. Your paper prototypes showing your design explorations. The focus should be on exploring possible interactions via multiple user tests. So don’t just show one prototype. More is better.
  
-
 5. Pictures and/or videos of the user tests of your prototypes
  
-
 6. Tentative conclusions. What are your next steps?
 
 ---
@@ -26,7 +22,7 @@
 
 1. done
 
-2. X
+2. done
 
 3. X
 
@@ -144,3 +140,4 @@ I aim for the project to be exposed in a gallery, but it would require a medium-
 
 23:33 -> posting the pitch to github and working on the visual presentation
 
+00:07 -> end of the day
