@@ -1,5 +1,5 @@
 11-11-2023
-# Preparing Presentation for 13-11
+# Preparing Presentation for 2023-11-13
 
 ---
 
@@ -24,7 +24,7 @@
 
 ### Objectives done : 
 
-1. X
+1. 70%
 
 2. X
 
@@ -40,3 +40,7 @@
 ---
 
 ### V log :
+
+14:30 -> started to work on the pitch for 2023-11-13
+
+15:30 -> updating git
