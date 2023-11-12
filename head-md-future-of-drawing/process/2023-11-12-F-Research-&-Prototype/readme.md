@@ -16,6 +16,8 @@
 
 5. finishing presentation pdf
 
+6. printing text for presentation
+
 ---
 
 ### Objectives done : 
@@ -24,14 +26,95 @@
 
 2. done
 
-3. X
+3. done
 
 4. done
 
-5. X
+5. done
+
+6. done
 
 ---
 
+### Update notes : 
+
+1. -> got only one response for now on my field research_02, i'll have to wait to get more ...
+
+2. -> here are 5 possible simple shapes to start with. and onw possible other outcome.
+
+shape01
+
+![Alt text](images/Shape01.png)
+
+shape02
+
+![Alt text](images/Shape02.png)
+
+shape03
+
+![Alt text](images/Shape03.png)
+
+shape04
+
+![Alt text](images/Shape04.png)
+
+shape05
+
+![Alt text](images/Shape05.png)
+
+---
+
+#### As an other possibility for my project i was thinking of a fixed robot that record peoples movements and translate them into drawings and sounds.
+
+inspired  by this project 
+
+###### Francisco Sanchez - Seismoscopes
+
+-recordings of the room vibrations made by visitors into a drawing.
+
+![Alt text](images/Philosopher04.jpg)
+
+![Alt text](images/seismoscopes_03.jpg)
+
+![Alt text](images/seismoscopes_montreal_2018_glh_005.jpg)
+
+https://www.lozano-hemmer.com/seismoscopes.php
+
+3. -> 
+
+### Tentatives/conclusions
+
+4 testing situations where made with the box during the day.
+
+For the first one i tried to link 
+
+
+
+The seccond one
+
+
+
+the third one
+
+
+
+and the fourth one
+
+
+
+Conclusion : 
+
+Next Step :
+
+
+
+4. ->
+
+5. ->
+
+6. ->
+
+---
 ### V log :
 
 9:42 -> uploaded user journey on 2023-11-11 readme file
@@ -55,4 +138,6 @@
 20:55 -> back to work 
 
 21:01 -> finished adding sound to the 4 prototype video
+
+21:15 -> finishing the presentation
 
