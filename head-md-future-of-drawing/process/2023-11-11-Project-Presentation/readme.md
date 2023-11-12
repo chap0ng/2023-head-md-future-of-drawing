@@ -107,6 +107,8 @@ I aim for the project to be exposed in a gallery, but it would require a medium-
 ---
 2. -> 
 
+![Alt text](images/user-journey.png)
+
 ---
 3. -> 
 
