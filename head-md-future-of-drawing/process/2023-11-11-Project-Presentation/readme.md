@@ -89,9 +89,9 @@ What is the AI for?
 
 ### For the current state of my Caran d’Ache project, I’ve opted for the following solutions: 
 
-You attach multiple motion captor to your wrist and feet, allowing the utilization of your entire body for interaction. Placing the robot on the ground would make a tiny sound indicating it’s ready. 
+You attach a motion captor to your wrist, allowing the utilization of your hand as tracking. Placing the robot on the ground would make a tiny sound indicating it’s ready. 
 
-You start your drawing by having your arms straight to your body, another sound could indicate that you can start moving. Draw as you want by moving your arm and body, then stay still for 5 seconds to stop the process. 
+You start your drawing by having your arms straight to your body, another sound could indicate that you can start moving. Draw as you want by moving your arm, then stay still for 5 seconds to stop the process. 
 
 The robot would have a rolling mechanism granting it freedom of movement to traverse the room. The absence of paper gives you more space to play with but also a digital canvas that would be transmitted to you when you conclude your drawing session. 
 
