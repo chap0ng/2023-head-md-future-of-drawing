@@ -7,7 +7,7 @@
 
 1. collecting Field research 02 output
 
-2. new fpossible forms
+2. new possible forms
 
 
 3. next steps ?
@@ -20,13 +20,13 @@
 
 ### Objectives done : 
 
-1. X
+1. None :,(
 
-2. X
+2. done
 
 3. X
 
-4. X
+4. done
 
 5. X
 
@@ -36,3 +36,16 @@
 
 9:42 -> uploaded user journey on 2023-11-11 readme file
 
+10:30 -> working on the presentation and sketching possible forms
+
+12:20 -> break
+
+13:12 -> back to work
+
+14:00 -> recording the prototype testing
+
+15:30 -> doing the video montage
+
+17:05 -> adding sound to the videos
+
+20:13 -> 3 out of 4 video done // updating github
