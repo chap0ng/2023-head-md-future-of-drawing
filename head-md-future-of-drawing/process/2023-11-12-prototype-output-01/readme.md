@@ -9,7 +9,6 @@
 
 2. new possible forms
 
-
 3. next steps ?
 
 4. Testing prototype
@@ -22,7 +21,7 @@
 
 ### Objectives done : 
 
-1. None :,(
+1. None : ,(
 
 2. done
 
@@ -39,6 +38,8 @@
 ### Update notes : 
 
 1. -> got only one response for now on my field research_02, i'll have to wait to get more ...
+
+---
 
 2. -> here are 5 possible simple shapes to start with. and onw possible other outcome.
 
@@ -78,6 +79,8 @@ inspired  by this project
 
 https://www.lozano-hemmer.com/seismoscopes.php
 
+---
+
 3. -> 
 
 ### Tentatives/conclusions
@@ -86,27 +89,23 @@ https://www.lozano-hemmer.com/seismoscopes.php
 
 For the first one i tried to create a Q&A style dialog between me and the robot. I make some movement, the robot answer by copying them and then producing a higher or lower pitch similar sound. This option is maybe the most basic one and maybe the most boring one too. But the video is quite interesting as a starting point for the user journey.
 
-The seccond one focus on not having a motion captor attatched to your wrist. 
+The seccond one focus on not having a motion captor attatched to your wrist. The dialogue now work in a more musical way with a synth instead of a basic sinewave. You interact with the robot when you get close to it, he will then try to run away from you. If you decide to step back he will then follow you. This could be a fun aproach with having multiple robots on the ground and seeing them interact with you when you get closer to them, it also make them feel a bit more than just a cube. It could also be a fun way to create visuals based on how you meet the robot and mark down your interaction in a simpler way.
 
+the third one is where I think things kind of failed a little bit. This one was supposed to test multiple arm movement into drawings with the restriction of the robot only being able to draw on the ground. Too many movement is too confusing and does not help on how the robot could read them also, the paper is a big limitation to the freedom and character of the robot.
 
+The fourth one is a test with multiple movement making direct sound and movement feedback. Maybe the one that is closer to a complete control over the robot. I tried also to incorporate multiple hand movement again but it made it confusing again.
 
-the third one
+Conclusion : I will not try to incorporate multiple body tracking unless i'm choosing the seccond solution.
 
+Next Step : Maybe the robot should not move but only draw ? is it usefull having a rolling assistant for visual feedback only now that he draw on a diital plane ? it feels more natural to walk than to move your arm like an octopus. I also need to get more feedback on my seccond questionary to develop more insights.
 
-
-and the fourth one
-
-
-
-Conclusion : 
-
-Next Step :
-
-
+---
 
 4. -> done
 
-5. ->
+---
+
+5. -> done
 
 
 ---
@@ -137,3 +136,5 @@ Next Step :
 21:15 -> finishing the presentation
 
 22:20 -> writing for github and finishing the next step text.
+
+22:58 -> finished conclusion // printing text (2023-11-11) for tomorrow
