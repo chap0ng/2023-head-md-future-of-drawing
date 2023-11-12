@@ -72,8 +72,6 @@ inspired  by this project
 
 -recordings of the room vibrations made by visitors into a drawing.
 
-![Alt text](images/Philosopher04.jpg)
-
 ![Alt text](images/seismoscopes_03.jpg)
 
 ![Alt text](images/seismoscopes_montreal_2018_glh_005.jpg)
@@ -86,11 +84,9 @@ https://www.lozano-hemmer.com/seismoscopes.php
 
 4 testing situations where made with the box during the day.
 
-For the first one i tried to link 
+For the first one i tried to create a Q&A style dialog between me and the robot. I make some movement, the robot answer by copying them and then producing a higher or lower pitch similar sound. This option is maybe the most basic one and maybe the most boring one too. But the video is quite interesting as a starting point for the user journey.
 
-
-
-The seccond one
+The seccond one focus on not having a motion captor attatched to your wrist. 
 
 
 
@@ -108,11 +104,10 @@ Next Step :
 
 
 
-4. ->
+4. -> done
 
 5. ->
 
-6. ->
 
 ---
 ### V log :
@@ -141,3 +136,4 @@ Next Step :
 
 21:15 -> finishing the presentation
 
+22:20 -> writing for github and finishing the next step text.
