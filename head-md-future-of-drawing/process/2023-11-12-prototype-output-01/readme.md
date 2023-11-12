@@ -140,3 +140,5 @@ Next Step : Maybe the robot should not move but only draw ? is it usefull having
 22:58 -> finished conclusion // printing text (2023-11-11) for tomorrow
 
 23:29 -> posting a cleaned up presentation in today folder
+
+23:42 -> end of the day
