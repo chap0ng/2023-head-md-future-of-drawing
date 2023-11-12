@@ -49,3 +49,10 @@
 17:05 -> adding sound to the videos
 
 20:13 -> 3 out of 4 video done // updating github
+
+20:32 -> dinner break
+
+20:55 -> back to work 
+
+21:01 -> finished adding sound to the 4 prototype video
+
