@@ -21,9 +21,13 @@
 - 3 or more drawing tools
 
 ---
+
 for tomorrow i choose option number two :
 
 ### 2. 
+
+![Alt text](<images/wooden box_03.png>)
+
 ### Pitch :
 
 For my Caran d’ Ache project, I’ve chosen to focus on the relationship between sound and drawing, utilizing body movement as the primary drawing tool. The robot would bring together the joy of drawing and the magic of generative music. It is aiming to create a discussion and collaboration between you and the robot, resulting in the creation of a unique drawing and a sound composition.
@@ -38,6 +42,11 @@ The AI is here to introduce different random behaviours to the robot. These woul
 
 I aim for the project to be exposed in a gallery, but it would require some space to make it work depending on the solution I choose. That is why, it could also integrate to any space that encourages free and expressive body movement. The drawing robot would adapt to your environment, turning your rooms into a musical canvas for your imagination.
 
+![Alt text](images/Drawing_tool_02_2.png)
+
+![Alt text](images/Drawing_tool_01_02.png)
+
+![Alt text](images/Drawing_tool_03.png)
 ---
 
 ### User Journey / Scenario : 
@@ -58,7 +67,7 @@ I aim for the project to be exposed in a gallery, but it would require some spac
 
 ### Shape research & developpement : 
 
-
+![Alt text](<images/wooden box_02.png>)
 
 ---
 
