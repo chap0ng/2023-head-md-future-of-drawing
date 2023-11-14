@@ -32,7 +32,7 @@ The robot would be designed for people of all ages, for art enthusiasts but also
 
 It would have a four-axis rolling mechanism granting it freedom of movement on the surface he’s drawing on. 
 
-The sound would be created directly from the movement you make and would provide a synchronized audio responsive experience.
+The sound would be created directly from the movement you make and would provide a synchronized audio responsive experience. You change the synth and sound pattern by inserting diferent colored pencils.
 
 The AI is here to introduce different random behaviours to the robot. These would give it some freedom to make its own movement decisions or even compose its own music and make it act like an art collaborator.
 
