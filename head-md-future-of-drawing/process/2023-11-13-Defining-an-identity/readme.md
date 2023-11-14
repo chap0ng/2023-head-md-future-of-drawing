@@ -41,7 +41,7 @@ moodboard document :
 
 ### Reference Images :
 
-images from other contexts // expressing shape, material, aesthetic, materials and finish 
+images from other contexts // expressing shape, aesthetic, materials and finish 
 
 2-3 moodboard
 
