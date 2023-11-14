@@ -30,11 +30,11 @@ For my Caran d’ Ache project, I’ve chosen to focus on the relationship betwe
 
 The robot would be designed for people of all ages, for art enthusiasts but also could be useful to musicians and illustrators.
 
-The robot would have a four-axis rolling mechanism granting it freedom of movement on the surface he’s drawing on. 
+It would have a four-axis rolling mechanism granting it freedom of movement on the surface he’s drawing on. 
 
 The sound would be created directly from the movement you make and would provide a synchronized audio responsive experience.
 
-The AI is here to introduce different random behaviours to the robot. These would give some freedom to the robot to make its own movement decisions or even compose its own music and make it act like an art collaborator.
+The AI is here to introduce different random behaviours to the robot. These would give it some freedom to make its own movement decisions or even compose its own music and make it act like an art collaborator.
 
 I aim for the project to be exposed in a gallery, but it would require some space to make it work depending on the solution I choose. That is why, it could also integrate to any space that encourages free and expressive body movement. The drawing robot would adapt to your environment, turning your rooms into a musical canvas for your imagination.
 
@@ -44,56 +44,88 @@ I aim for the project to be exposed in a gallery, but it would require some spac
 
 You attach a motion captor to your wrist, allowing the utilization of your hand as a controller. Placing the robot on the drawing surface would make a tiny sound indicating it’s ready. 
 
-You start your drawing by having your arms straight to your body, another sound could indicate that you can start moving. Draw as you want by moving your arm, then stay still for 5 seconds to stop the process. 
+You start your drawing by having your arms straight to your body, another sound could indicate that you can start moving. Draw as you want by moving your arm, then stay still for 5 seconds to stop the process.
 
 ---
 
-### Field observations & Key Insights :
+### Field observations & Key Insights : 
+
+
 
 ---
 
-### Shape research & developpement :
+### Shape research & developpement : 
+
+
 
 ---
 
-### Visual and material moodboard :
+### Visual and material moodboard : 
+
+
 
 ---
 
-### Paper prototype :
+### Paper prototype : 
+
+
 
 ---
 
-### User tests :
+### User tests : 
 
+
+
+---
 ---
 ---
 
 ### 2. 
 ### Pitch :
 
----
+For my Caran d’ Ache project, I’ve chosen to focus on the relationship between sound and drawing, utilizing body movement as the primary drawing tool. The robot would bring together the joy of drawing and the magic of generative music. It is aiming to create a discussion and collaboration between you and the robot, resulting in the creation of a unique drawing and a sound composition.
 
-### User Journey / Scenario :
+The robot would be designed for people of all ages, for art enthusiasts but also could be useful to musicians and illustrators.
 
+It would have a four-axis rolling mechanism granting it freedom of movement on the surface he’s rolling on. 
 
----
+Creating line with the given tools would grant the robot a musical partition that he will be reading to create sounds.
 
-### Field observations & Key Insights :
+The AI is here to introduce different random behaviours to the robot. These would give it some freedom to make its own movement decisions or even compose its own music and make it act like an art collaborator.
 
----
-
-### Shape research & developpement :
-
----
-
-### Visual and material moodboard :
+I aim for the project to be exposed in a gallery, but it would require some space to make it work depending on the solution I choose. That is why, it could also integrate to any space that encourages free and expressive body movement. The drawing robot would adapt to your environment, turning your rooms into a musical canvas for your imagination.
 
 ---
 
-### Paper prototype :
+### User Journey / Scenario : 
+
+
 
 ---
 
-### User tests :
+### Field observations & Key Insights : 
+
+
+
+---
+
+### Shape research & developpement : 
+
+
+
+---
+
+### Visual and material moodboard : 
+
+
+
+---
+
+### Paper prototype : 
+
+
+
+---
+
+### User tests : 
 
