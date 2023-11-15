@@ -61,7 +61,11 @@ I aim for the project to be exposed in a gallery, but it would require some spac
 
 ### Field observations & Key Insights : 
 
+For my research i focused on creating exercises on the relationship between sound, colors and forms. 
 
+The outputs inspired this prototype and his fonction. 
+
+These exercises allowed people who are not into drawing to liberate themself from the pressure of creating "good art" and not beeing "able to draw".
 
 ---
 
