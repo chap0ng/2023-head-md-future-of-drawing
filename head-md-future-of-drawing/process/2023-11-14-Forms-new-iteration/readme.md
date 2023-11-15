@@ -34,7 +34,7 @@ Suètone is a generative music box that use your drawings as partitions.
 
 Designed for people of all ages, it transforms your drawings into musical canvas.
 
-Use one of the many drawing tools provided with it to generate line patterns that he will be wandering and singing on.
+Use one of the many drawing tools provided with it to generate line patterns that Suètone will be wandering and singing on.
 
 This musical AI assistant has its own random behaviours permitting to generate limitless sounds compositions for you to listen to.
 
@@ -70,6 +70,7 @@ The outputs inspired this prototype and his fonction.
 
 ![Alt text](<images/wooden box_02.png>)
 
+![Alt text](images/wooden_switch.jpeg)
 ---
 
 ### Visual and material moodboard : 
