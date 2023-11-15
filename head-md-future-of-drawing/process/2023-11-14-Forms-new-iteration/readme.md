@@ -22,7 +22,7 @@
 
 ---
 
-for tomorrow i choose option number two :
+for now i choosed option number two :
 
 ### 2. 
 
