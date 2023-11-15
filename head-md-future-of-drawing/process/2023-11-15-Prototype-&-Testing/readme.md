@@ -31,3 +31,11 @@
 
 ---
 
+### Update notes : 
+
+1. -> 1 min sound (generative) that will be used to present to Caran d' Ache. During the presentation the sound will be generative and not this recorded sample.
+
+
+
+
+---
