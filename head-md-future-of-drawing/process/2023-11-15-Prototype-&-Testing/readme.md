@@ -21,13 +21,13 @@
 
 1. Done
 
-2. X
+2. Done
 
-3. X
+3. Done
 
-4. X
+4. Sadly i didn't found rivets for it :(
 
-5. X
+5. Done
 
 ---
 
@@ -39,4 +39,4 @@ https://github.com/chap0ng/2023-head-md-future-of-drawing/assets/101097173/c425f
 
 ---
 
-2. -> 
+2. -> will be uploading pictures this week end
