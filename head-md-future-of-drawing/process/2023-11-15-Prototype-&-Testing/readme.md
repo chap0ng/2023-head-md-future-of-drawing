@@ -7,11 +7,11 @@
 
 1. Sound prototype
 
-2. Drawing tool 1
+2. Drawing tool 1 paper prototype
 
-3. Drawing tool 2
+3. Drawing tool 2 paper prototype
 
-4. Drawing tool 3
+4. Drawing tool 3 paper prototype
 
 5. Finishing presentation
 
@@ -39,3 +39,4 @@ https://github.com/chap0ng/2023-head-md-future-of-drawing/assets/101097173/c425f
 
 ---
 
+2. -> 
