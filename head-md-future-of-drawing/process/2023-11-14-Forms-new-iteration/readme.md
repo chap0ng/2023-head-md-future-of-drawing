@@ -58,11 +58,11 @@ This musical AI assistant has its own random behaviours permitting to generate l
 
 ### Field observations & Key Insights : 
 
-For my research i focused on creating exercises on the relationship between sound, colors and forms. 
+For my research i focused on creating exercises based on the relationship between sound, colors and forms. 
+
+Drawing sound in a flowing motion allowed people who are not into drawing to liberate themself from the pressure of creating «good art» and not beeing «able to draw».
 
 The outputs inspired this prototype and his fonction. 
-
-These exercises allowed people who are not into drawing to liberate themself from the pressure of creating "good art" and not beeing "able to draw".
 
 ---
 
