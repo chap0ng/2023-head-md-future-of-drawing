@@ -35,7 +35,6 @@
 
 1. -> 1 min sound (generative) that will be used to present to Caran d' Ache. During the presentation the sound will be generative and not this recorded sample.
 
-
-
+https://github.com/chap0ng/2023-head-md-future-of-drawing/assets/101097173/c425f1a0-2645-4216-983f-57d1f8fff925
 
 ---
