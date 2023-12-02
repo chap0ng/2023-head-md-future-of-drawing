@@ -54,5 +54,12 @@ During the 2023-11-16 feedback, there was a question about adding a way to proje
 
 On the other hand it might feel more industrial, more superficial and could be harder to manufacture.
 
+Also the wooden drawing tools design make more sens than making them in acrylics.
 
+![Alt text](images/Drawbot_form_12.png)
 
+![Alt text](images/acrylics-01.jpg)
+
+![Alt text](images/acrylics-02.jpg)
+
+![Alt text](images/acrylics-03.jpg)
