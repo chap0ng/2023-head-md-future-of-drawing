@@ -36,9 +36,9 @@ I'm still not sure about the holes on this one as they seems weird and closer to
 
 ### TEXTURES
 
-### 01
+### 01 : Light-wood
 
-I'm choosing light wood as a first iteration, it is closer to a more hand made esthetic, feels warm and is a calming material.
+I'm choosing light wood as a first iteration, it is closer to a more hand made esthetic, it make sens as the robot produce sounds, it feels warm and is a calming material.
 
 ![Alt text](images/light-wood.jpg)
 
@@ -48,4 +48,11 @@ I'm choosing light wood as a first iteration, it is closer to a more hand made e
 
 ---
 
-### 02
+### 02 : Acrylics
+
+During the 2023-11-16 feedback, there was a question about adding a way to project from the robot or to make it emit light. This could be possible with acrylics that can diffuse light in a soft way and could add an other layer to the project.
+
+On the other hand it might feel more industrial, more superficial and could be harder to manufacture.
+
+
+
