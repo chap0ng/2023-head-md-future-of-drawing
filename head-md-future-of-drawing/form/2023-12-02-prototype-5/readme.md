@@ -33,3 +33,19 @@ As the tools and the process presented during 2023-11-16 presentation, where rem
 I'm still not sure about the holes on this one as they seems weird and closer to a salt shaker than a rock.
 
 ---
+
+### TEXTURES
+
+### 01
+
+I'm choosing light wood as a first iteration, it is closer to a more hand made esthetic, feels warm and is a calming material.
+
+![Alt text](images/light-wood.jpg)
+
+![Alt text](images/wooden-switch.jpg)
+
+![Alt text](images/Smart-Wooden-Objects-14-pana-objects.jpg)
+
+---
+
+### 02
