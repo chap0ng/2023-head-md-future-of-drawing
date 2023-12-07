@@ -27,6 +27,8 @@ Take the data from a drawing (colors or forms) to be able to translate it into g
 
 - Wood
    - cut cnc
+   - or
+   - The drill thing that can dig into the wood
 
 - Fasteners
 
@@ -36,6 +38,7 @@ Take the data from a drawing (colors or forms) to be able to translate it into g
 ### Electronics : 
 
 - PJRC Teensy 4.1 or ESP32 (x2?)
+
    - Code
       - idk yet ...
 
@@ -63,7 +66,7 @@ Take the data from a drawing (colors or forms) to be able to translate it into g
 - Power
     - Lipo
        - Dimensions
-       - idk yet how many Ma
+       - idk yet how many Mha
 
 - API 
 
