@@ -45,7 +45,7 @@ Take the data from a drawing (colors or forms) to be able to translate it into g
      - camera or color sensor : 
 
      - Module capteur de couleur TCS230 / TCS3200
-     - CAMÉRA JETSON IMX219 8MP 130
+     - OR ... CAMÉRA JETSON IMX219 8MP 130
 
      - Capteur d'accélération Purecrea MPU-6050 3 axes avec gyroscope
 
@@ -62,7 +62,7 @@ Take the data from a drawing (colors or forms) to be able to translate it into g
 
 - Power
     - Lipo
-       - Dimension
+       - Dimensions
        - idk yet how many Ma
 
 - API 
