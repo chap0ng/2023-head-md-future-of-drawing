@@ -28,7 +28,7 @@ Take the data from a drawing (colors or forms) to be able to translate it into g
 - Wood
    - cut cnc
    - or
-   - The drill thing that can dig into the wood
+   - milling machine
 
 - Fasteners
 
@@ -56,7 +56,7 @@ Take the data from a drawing (colors or forms) to be able to translate it into g
 
    - Outputs
      - Sound : Mini speaker 2 W - 8 OHM (x2?)
-     - LED : 
+     - LED : Adafruit Industries LLC 3919
 
 - Dimensions 
      - around 140 mm x 140 mm (might get bigger)
