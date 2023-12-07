@@ -37,7 +37,7 @@ Take the data from a drawing (colors or forms) to be able to translate it into g
 ---
 ### Electronics : 
 
-- PJRC Teensy 4.1 or ESP32 (x2?)
+- PJRC Teensy 4.1 and ESP32 
 
    - Code
       - idk yet ...
