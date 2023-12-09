@@ -37,12 +37,13 @@ Take the data from a drawing (colors or forms) to be able to translate it into g
 ---
 ### Electronics : 
 
-- PJRC Teensy 4.1 and ESP32 
+- ESP32
 
    - Code
       - idk yet ...
 
-   - Shields ?
+   - Shields : 
+      - Music maker FeatherWing
 
    - Inputs
      - camera or color sensor : 
@@ -52,11 +53,10 @@ Take the data from a drawing (colors or forms) to be able to translate it into g
 
      - Capteur d'accélération Purecrea MPU-6050 3 axes avec gyroscope
 
-     - INTERRUPTEUR TACTILE SPST-NO 0,05A 12V
 
    - Outputs
-     - Sound : Mini speaker 2 W - 8 OHM (x2?)
-     - LED : Adafruit Industries LLC 3919
+     - Sound : 4OHM 1W 83DB (x2?)
+     - LED : NeoPixel 24 LED RVB WS2812 5050
 
 - Dimensions 
      - around 140 mm x 140 mm (might get bigger)
@@ -69,6 +69,7 @@ Take the data from a drawing (colors or forms) to be able to translate it into g
        - idk yet how many Mha
 
 - API 
+   - yes
 
 
 ---
