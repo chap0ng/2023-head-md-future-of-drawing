@@ -31,6 +31,9 @@ Take the data from a drawing (colors or forms) to be able to translate it into g
    - milling machine
 
 - Fasteners
+    - glue
+    - rivets
+    - screws
 
 - 3D Printing for the inner shell
    
