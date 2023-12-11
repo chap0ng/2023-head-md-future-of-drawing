@@ -17,9 +17,11 @@ Take the data from a drawing (colors or forms) to be able to translate it into g
 ### Form :
 - 3d modelling (fusion360)
   - Tools
+  
        - wooden mini rake
        - 4 pencils square
        - fruit grabber style 
+
    - Stone shape robot
 
 ---
