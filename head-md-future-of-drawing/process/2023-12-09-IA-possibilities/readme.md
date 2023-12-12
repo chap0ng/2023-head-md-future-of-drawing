@@ -44,5 +44,5 @@ https://www.maxforlive.com/library/device.php?id=5291&fbclid=IwAR1tVWFnQmYwDFyLZ
 ---
 #### 8. GPT - 4 :
 
-might be more complicated ....
+might be more complicated ...
 
