@@ -2,7 +2,7 @@
 # Possible IA :
 ---
 
-- Here's a list of possible IA, ableton and Max preset that could be used inside Suètone.
+- Here's a list of possible IA, Ableton and Max preset that could be used inside Suètone.
 
 ---
 
