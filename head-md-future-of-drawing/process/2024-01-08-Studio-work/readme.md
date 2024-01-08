@@ -13,3 +13,7 @@
 As discussed with Douglas here's what I will be doing to continue prototyping and defining my forms.
 
 ---
+
+### Update notes : 
+
+1. -> As a starting point, i'm still working on the maxforlive patch i've been working on last week. This time i'm testing ways to add one camera input per colors.
