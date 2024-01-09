@@ -33,9 +33,9 @@ OPENING PROCESS reminder : Open loop midi (create from Max 1) -> open Max Msp Pa
 
 - understanding RGB light -> wip -> + Fritzing
 - understandnng XYZ captor -> wip -> + Frizing
-- understanding Bluetoorh speaker -> wip -> + Frizing
+- understanding Bluetoorh speaker -> wip -> will be using tiny bluetooth speaker in the end
 - RGB captor -> Done / won't be using -> + Frizing
-- understanding ESP cam -> wip -> + Frizing
+- understanding ESP cam -> wip -> will be using it wired for now -> + Frizing
 
 ---
 
