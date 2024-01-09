@@ -8,3 +8,13 @@
 4. Getting Final Presentation V1 done
 
 ---
+
+#### electronics to update : 
+- frizing files
+- Pictures
+- Sensors experientations and fails
+- Arduino codes
+- Max msp and ableton experimentations
+- Solutions for the final prototype and why i go with this
+
+---
