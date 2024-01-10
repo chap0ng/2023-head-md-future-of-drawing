@@ -18,3 +18,13 @@
 - Solutions for the final prototype and why i go with this
 
 ---
+
+### Update notes : 
+
+1. I've visited the wood workshop and got answers I needed to produice the wooden forms
+
+2. 
+
+3. 
+
+4. 
