@@ -23,8 +23,5 @@
 
 1. I've visited the wood workshop and got answers I needed to produice the wooden forms
 
-2. 
-
-3. 
-
-4. 
+back home i did a quick user test with the DFrobot USB Camera with my max patch and ableton ! 
+Working pretty fine and will be the wired solution as for my project presentation instead of the ESP 32 CAM that require WiFi.
