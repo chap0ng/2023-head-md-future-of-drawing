@@ -30,6 +30,14 @@ Arduino sensor Controller with max-msp and ableton live : https://www.hackster.i
 https://www.distrelec.ch/en/3w-class-amplifier-adafruit-3006/p/30129201?cq_src=google_ads&cq_cmp=18320642092&cq_con=&cq_term=&cq_med=pla&cq_plac=&cq_net=x&cq_pos=&cq_plt=gp&gclid=Cj0KCQiA4Y-sBhC6ARIsAGXF1g5Qu_99SGTd0GvrkiMshQF66TP-PiAr8NS5YHgeyX_eFLCZBK0RgMEaAlGHEALw_wcB&gclsrc=aw.ds
 
 ---
+
+### Adafruit Micro-Lipo charger : 
+
+https://www.adafruit.com/product/1904
+
+some useful diagram based on a project : https://www.hackster.io/little_lookout/person-detection-with-tensorflow-and-arduino-47ae01
+
+---
 ### Arduno-nano-BLE-33-Sense :
 
 Note : the arduino can sometimes not be recognised in the arduino code ports. to resolve the problem : -> double click the tiny reboot button while the arduino is plugged in -> led red and green -> you can now choose a new port for your arduino.
@@ -37,6 +45,8 @@ Note : the arduino can sometimes not be recognised in the arduino code ports. to
 ---
 
 ### DFRobot 0.3 MegaPixels USB Camera :
+
+https://www.dfrobot.com/product-2089.html
 
 ---
 ### Esp 32
@@ -65,7 +75,11 @@ Streaming video over wifi : https://www.instructables.com/ESP-32-Camera-Streamin
 
 Midi demo : https://www.youtube.com/watch?v=D4DvWx-1Gzc
 
+---
 
+### LIS3DH Accelerometer :
+
+https://learn.adafruit.com/adafruit-lis3dh-triple-axis-accelerometer-breakout/arduino
 
 ---
 
@@ -91,6 +105,10 @@ arhythmic patterns : https://cycling74.com/forums/generating-arhythmic-patterns
 
 ### NeoPixel Ring 24 :
 
+Dfrobot neopixel Specs : https://www.dfrobot.com/product-2542.html
+
+With arduino nano : https://community.dfrobot.com/makelog-313679.html
+
 
 ---
 
@@ -103,6 +121,14 @@ https://github.com/vlall/PixelNotes
 ### Pixelsynth :
 
 https://ojack.xyz/PIXELSYNTH/
+
+---
+
+### Polymer Battery 3.7V : 
+
+Note : to use it with the adafruit microlipo and most of the arduino/esp etc ... you need to change the connection to JST.
+
+https://www.mikroe.com/li-polymer-battery-37v-2000mah
 
 ---
 
@@ -124,6 +150,7 @@ Calibration Tutorial : https://arduinoplusplus.wordpress.com/2015/07/15/tcs230tc
 
 
 ---
+
 ### Teensy 4 Wifi :
 
 Connecting to wifi :
