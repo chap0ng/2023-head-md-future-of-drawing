@@ -1,1 +1,2 @@
-# COMMIN SOON ...
+# Electronics
+You can navigate these folders to have some insight on how i made it work for the final day, to see all the tests i've made, to get the code i did, find some links that helped me and to understand the future of electronics i'm planning to use to get this project to the next phase.
