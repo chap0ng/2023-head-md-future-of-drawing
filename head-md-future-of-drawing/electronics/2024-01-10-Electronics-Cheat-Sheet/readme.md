@@ -20,6 +20,9 @@ Max for live connection kit : https://www.synthtopia.com/content/2016/03/24/free
 
 https://github.com/Ableton/m4l-connection-kit/tree/main/Arduino
 
+Arduino sensor Controller with max-msp and ableton live : https://www.hackster.io/PetrosVamvakas/arduino-sensor-controller-through-max-msp-with-ableton-live-06c0a5
+
+
 ---
 
 ### Adafruit 3W Class D amp : 
@@ -114,6 +117,8 @@ Basic tutorial : https://www.youtube.com/watch?v=A-A5kRLBSn8
 in depth tutorial : https://lastminuteengineers.com/tcs230-tcs3200-color-sensor-arduino-tutorial/
 
 Calibration and code : https://github.com/MajicDesigns/MD_TCS230
+
+https://www.instructables.com/Color-Recognition-W-TCS230-Sensor-and-Arduino-Cali/
 
 Calibration Tutorial : https://arduinoplusplus.wordpress.com/2015/07/15/tcs230tcs3200-sensor-calibration/
 
