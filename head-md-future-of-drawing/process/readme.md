@@ -1,0 +1,1 @@
+Process day by day and updated when I can. all folder names indicate some insights onwhat will be in these folders.
