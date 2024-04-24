@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 34.0, 77.0, 1639.0, 850.0 ],
+		"rect" : [ 41.0, 84.0, 1639.0, 850.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -404,8 +404,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 3,
 					"outlettype" : [ "jit_matrix", "bang", "" ],
-					"patching_rect" : [ 70.0, 69.0, 85.0, 22.0 ],
-					"text" : "jit.world Basile"
+					"patching_rect" : [ 70.0, 69.0, 73.0, 22.0 ],
+					"text" : "jit.world Baz"
 				}
 
 			}
