@@ -764,7 +764,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 285.542515575885773, 654.253322839736938, 150.0, 20.0 ],
+					"patching_rect" : [ 235.0, 655.594786167144775, 150.0, 20.0 ],
 					"text" : "Red"
 				}
 
@@ -933,7 +933,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 478.0, 285.0, 212.0, 50.0 ],
+					"patching_rect" : [ 479.0, 246.5, 212.0, 50.0 ],
 					"text" : "read C:/Users/basil/Pictures/10_logos/93284428cffdd62d821fc587fbaa47e1.jpg"
 				}
 
@@ -1654,7 +1654,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-8", 0 ],
-					"midpoints" : [ 726.46943451479433, 649.018308997154236, 224.042515575885773, 649.018308997154236 ],
+					"midpoints" : [ 726.46943451479433, 641.70123565196991, 224.042515575885773, 641.70123565196991 ],
 					"source" : [ "obj-71", 0 ]
 				}
 
