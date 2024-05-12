@@ -3930,7 +3930,7 @@
 		"dependency_cache" : [ 			{
 				"name" : "capture.jpg",
 				"bootpath" : "~/Desktop/SuetoneReceiver-main",
-				"patcherrelativepath" : "./SuetoneReceiver-main",
+				"patcherrelativepath" : "../../../../SuetoneReceiver-main",
 				"type" : "JPEG",
 				"implicit" : 1
 			}
